@@ -1,0 +1,8 @@
+${AnsiColor.RED} _______  ${AnsiColor.YELLOW} _______ .__   __.   ______   .______       __       ___      ${AnsiColor.RED}   ${AnsiColor.YELLOW} _______ .______
+${AnsiColor.RED}|       \ ${AnsiColor.YELLOW}|   ____||  \ |  |  /  __  \  |   _  \     |  |     /   \     ${AnsiColor.RED}   ${AnsiColor.YELLOW}|   ____||   _  \
+${AnsiColor.RED}|  .--.  |${AnsiColor.YELLOW}|  |__   |   \|  | |  |  |  | |  |_)  |    |  |    /  ^  \    ${AnsiColor.RED}   ${AnsiColor.YELLOW}|  |__   |  |_)  |
+${AnsiColor.RED}|  |  |  |${AnsiColor.YELLOW}|   __|  |  . `  | |  |  |  | |      /     |  |   /  /_\  \   ${AnsiColor.RED}   ${AnsiColor.YELLOW}|   __|  |      /
+${AnsiColor.RED}|  '--'  |${AnsiColor.YELLOW}|  |____ |  |\   | |  `--'  | |  |\  \----.|  |  /  _____  \  ${AnsiColor.RED} __${AnsiColor.YELLOW}|  |     |  |\  \----.
+${AnsiColor.RED}|_______/ ${AnsiColor.YELLOW}|_______||__| \__|  \______/  | _| `._____||__| /__/     \__\ ${AnsiColor.RED}(__${AnsiColor.YELLOW})__|     | _| `._____|
+
+:: Spring Boot's Version: ${spring-boot.version} ::
